@@ -5,6 +5,7 @@ My intro to Python with a childhood memory game
 ## How to play
 
 - Have `python` installed
+
 - Clone this repo
 
   `https://github.com/mengopudding/snakes.git`
@@ -28,6 +29,8 @@ https://docs.python.org/3.7/library/random.html
 
 **Python Synxtax**
 
-- Identation is part of the syntax??? whaaaaa!
+Was getting alot of `SyntaxError: invalid syntax` errors  
+
+- Identation/Spaces is part of the syntax??? whaaaaa! 
 
 https://www.python.org/dev/peps/pep-0008/
