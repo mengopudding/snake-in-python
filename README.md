@@ -13,7 +13,7 @@ My intro to Python with a childhood memory game
 
   `python snake_game.py`
 
-- To quit, press any other key other than `arrow keys`
+- To quit, press any key other than `arrow keys`
 
 ### Learnings
 
@@ -36,3 +36,10 @@ Was getting alot of `SyntaxError: invalid syntax` errors
 - Identation/Spaces is part of the syntax??? whaaaaa! 
 
 https://www.python.org/dev/peps/pep-0008/
+
+
+## Improvements to be made
+
+- Add colors and some sort of intro/heading  
+- Score counter
+- Fix bug: terminating app leaves terminal window text in zigzag alignment
