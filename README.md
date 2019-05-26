@@ -4,7 +4,7 @@ My intro to Python with a childhood memory game
 
 ## How to play
 
-- Have `python` installed
+- Have `python2` installed
 
 - Clone this repo
 
@@ -12,6 +12,8 @@ My intro to Python with a childhood memory game
 - To start playing
 
   `python snake_game.py`
+
+- To quit, press any other key other than `arrow keys`
 
 ### Learnings
 
