@@ -1,6 +1,6 @@
 # SNAKES 
 
-My intro to Python with a childhood memory game
+My intro to Python with a childhood memory game, inspired by EngineeringMan
 
 ## How to play
 
